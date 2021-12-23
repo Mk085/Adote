@@ -1,0 +1,23 @@
+*
+{margin:0;
+padding:0;
+box-sizing:border-box}
+.rd {display: flex;}
+.rd {padding: 40px;
+    height: calc(100vh - 20px - 80px);}
+.rd {flex-wrap: nowrap;}
+.rd {text-align: center;}
+.rodape {background-color: black;}
+.rodape {color: whitesmoke;}
+.container {display:flex}
+.container{flex-wrap:nowrap}
+.container {text-align: center}
+.child { color: black}
+.child:hover {color: white;}
+.child {width:50%;height: 50px; background-color:beige; text-align: center;}
+.child:hover{background-color: black}
+.child:hover{font-size: larger;}
+body{background-image: url(../Adote/Pets.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
